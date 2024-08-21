@@ -24,11 +24,11 @@
 DB 에저장된 정보를 불러옵니다 사진의 수정까지 가능합니다 
 <br>
 ![b5a17efd-9054-4ec6-be63-05790561b4f2](https://github.com/user-attachments/assets/a6f5f88d-9ef9-44b1-ab4d-0f1af0e42e8a)
-
+<br>
 상품을 클릭시 Detail 페이지로 들어가서 상품의 정보를 확인 할수있습니다
 <br>
 ![8d2d8892-bcce-41c8-8b7e-0f7a3864c2d0](https://github.com/user-attachments/assets/c9afe27f-54a1-4b32-a4e7-78deecf632fe)
-
+<br>
 ![1fd41675-8c53-40dc-a901-0d4bf4599216](https://github.com/user-attachments/assets/87219616-a052-40b4-8627-0071cc9ecc37)
 ![d3f557bd-953e-4b5d-a826-8ae4563bb97d](https://github.com/user-attachments/assets/3ff31d54-c440-414d-87a3-7bf41d0d5dc3)
 ![캡처5](https://github.com/user-attachments/assets/7372811f-5171-40aa-8bef-7066788039f2)
