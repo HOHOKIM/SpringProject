@@ -18,8 +18,8 @@
 <br>
 ![2f86f973-c303-465d-807c-a75a94d36927](https://github.com/user-attachments/assets/e0081dcd-46cb-454c-854f-abfdd73a2a21)
 <br>
-<br>
 ![b5a17efd-9054-4ec6-be63-05790561b4f2](https://github.com/user-attachments/assets/a6f5f88d-9ef9-44b1-ab4d-0f1af0e42e8a)
+<br>
 DB 에저장된 정보를 불러옵니다 사진의 수정까지 가능합니다 
 <br>
 <br>
