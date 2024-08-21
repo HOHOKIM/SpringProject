@@ -15,10 +15,14 @@
 ![19290bf1-3bb9-47c6-adca-6519cadd70cc](https://github.com/user-attachments/assets/17acea99-66b5-47d9-8c67-3a3fa71294a9)
 <br>
 버튼표시를 누르면 수정 삭제가 가능합니다 
+<br>
 ![31d36a6c-0c1f-47cd-b543-8aef0f3a8a96](https://github.com/user-attachments/assets/0152a534-b5c3-4af4-ac95-88087c16847e)
 수정 버튼에 마우스를 hover시 색이 변하고 수정 페이지로 이동합니다
+<br>
 ![2f86f973-c303-465d-807c-a75a94d36927](https://github.com/user-attachments/assets/e0081dcd-46cb-454c-854f-abfdd73a2a21)
+<br>
 DB 에저장된 정보를 불러옵니다 사진의 수정까지 가능합니다 
+<br>
 ![b5a17efd-9054-4ec6-be63-05790561b4f2](https://github.com/user-attachments/assets/a6f5f88d-9ef9-44b1-ab4d-0f1af0e42e8a)
 
 상품을 클릭시 Detail 페이지로 들어가서 상품의 정보를 확인 할수있습니다
