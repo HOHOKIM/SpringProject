@@ -3,11 +3,13 @@
 스프링으로 만든 프로젝트입니다 넷플릭스 굿즈 샵을 만들었습니다 
 
 ![4a89bab3-e8b1-45b8-b449-f811b2072697](https://github.com/user-attachments/assets/0d681dd9-fb54-4bcc-915f-6fa6346591f3)
+메인페이지 입니다 
 ![e9aac1c2-342a-4a4d-b717-b7cfadd1ce2c](https://github.com/user-attachments/assets/09501cc1-7c6d-4b2e-8f2e-efa10785d377)
-![3ac64746-f564-4684-b7e3-c2df586ef8ed](https://github.com/user-attachments/assets/db7099ef-3f3b-448d-98b8-e6f9993e633c)
-![1832a72e-4241-4a0c-b844-85bcd922ab2e](https://github.com/user-attachments/assets/bd283576-edd6-482d-8a34-b279f6b71c87)
-![eac3a9d9-f2b9-475a-b8ed-2cd2ae835988](https://github.com/user-attachments/assets/0c24e2eb-1f0e-4d4b-8d3b-cd6b8473c40e)
+상품을 등록할수있는 페이지입니다 
+사진은 최대 6개 등록이 가능합니다
+
 ![db05fe1d-4691-46ff-b298-45215ecd8ec7](https://github.com/user-attachments/assets/9febdad4-8989-48d0-90e4-d2620d098068)
+
 ![30f8de6f-2b32-4e4e-bf12-1f3ed0b4bcb3](https://github.com/user-attachments/assets/6e90b89c-40b6-4e06-ae6f-561add8b4e89)
 ![19290bf1-3bb9-47c6-adca-6519cadd70cc](https://github.com/user-attachments/assets/17acea99-66b5-47d9-8c67-3a3fa71294a9)
 ![31d36a6c-0c1f-47cd-b543-8aef0f3a8a96](https://github.com/user-attachments/assets/0152a534-b5c3-4af4-ac95-88087c16847e)
