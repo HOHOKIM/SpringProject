@@ -22,4 +22,11 @@ DB 에저장된 정보를 불러옵니다 사진의 수정까지 가능합니다
 ![8d2d8892-bcce-41c8-8b7e-0f7a3864c2d0](https://github.com/user-attachments/assets/c9afe27f-54a1-4b32-a4e7-78deecf632fe)
 ![1fd41675-8c53-40dc-a901-0d4bf4599216](https://github.com/user-attachments/assets/87219616-a052-40b4-8627-0071cc9ecc37)
 ![d3f557bd-953e-4b5d-a826-8ae4563bb97d](https://github.com/user-attachments/assets/3ff31d54-c440-414d-87a3-7bf41d0d5dc3)
-![4a89bab3-e8b1-45b8-b449-f811b2072697](https://github.com/user-attachments/assets/7784c6ff-2e0f-4ca6-89e8-96b82fad6564)
+![캡처5](https://github.com/user-attachments/assets/7372811f-5171-40aa-8bef-7066788039f2)
+![캡처2](https://github.com/user-attachments/assets/b9c9384c-e79c-4997-946a-8648b059531e)
+![캡처9](https://github.com/user-attachments/assets/41a0b2f4-0b96-4812-921d-b8979ea0bbe9)
+![캡처10](https://github.com/user-attachments/assets/f8d05f5e-f32c-421f-a
+![캡처11](https://github.com/user-attachments/assets/4ba5fcb8-42d6-429b-920e-a7d50051fdf0)
+f90-30ef016d72ae)
+![캡처12](https://github.com/user-attachments/assets/ebc974ec-31d2-4edc-9318-fe336f79dd87)
+
