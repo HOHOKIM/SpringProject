@@ -33,6 +33,7 @@ DB 에저장된 정보를 불러옵니다 사진의 수정까지 가능합니다
 <br> 장바구니 버튼을 누르면 장바구니 DB에 옮겨가며 저장할수있습니다 
 ![캡처9](https://github.com/user-attachments/assets/41a0b2f4-0b96-4812-921d-b8979ea0bbe9)
 <br> Q&A 게시판을만들어 소통을 할수있게 만들었습니다
+<br> CRUD를 가능하게 만들었습니다 
 ![캡처10](https://github.com/user-attachments/assets/f8d05f5e-f32c-421f-af90-30ef016d72ae)
 관리자 게시판입니다 
 ![캡처11](https://github.com/user-attachments/assets/4ba5fcb8-42d6-429b-920e-a7d50051fdf0)
